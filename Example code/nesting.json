@@ -1,0 +1,45 @@
+{
+    "Stats" : {
+        "KvGwMVrBtnmddnFUODk" : {
+            "name" : "neat o",
+            "sides" : 6,
+            "targets" : {
+
+                "0" : {
+                    "target" : "4+",
+                    "rolls" : {"0" : 1, "2" : 3, "..." : "..."},
+                    "sucessfull" : 2
+                },
+                
+                "..." : "..."
+            }
+        },
+
+        "KvGwM23gfrBtnmddnFUODk" : {"..." : "..."}
+    }
+}
+
+{
+    "Stats" : {
+        "KvGwMVrBtnmddnFUODk" : {
+            "name" : "neat o",
+            "sides" : 6,
+            "number of dice" : 150
+        },
+
+        "KvGwM23gfrBtnmddnFUODk" : {"..." : "..."}
+    },
+
+    "Targets" : {
+        "KvGwMVrBtnmddnFUODk" : { // same ID
+            "0" : {
+                "target" : "4+",            
+                "rolls" : {"0" : 1, "2" : 3, "..." : "..."},
+                "sucessfull" : 2 
+                "owener"
+            },
+            
+            "..." : "..."
+        }
+    }
+}

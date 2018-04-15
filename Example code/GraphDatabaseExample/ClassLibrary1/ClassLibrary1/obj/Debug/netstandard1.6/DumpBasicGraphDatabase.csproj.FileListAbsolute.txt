@@ -1,0 +1,8 @@
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.6\DumpBasicGraphDatabase.deps.json
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.6\DumpBasicGraphDatabase.dll
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.6\DumpBasicGraphDatabase.pdb
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.6\DumpBasicGraphDatabase.csprojResolveAssemblyReference.cache
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.6\DumpBasicGraphDatabase.csproj.CoreCompileInputs.cache
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.6\DumpBasicGraphDatabase.AssemblyInfo.cs
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.6\DumpBasicGraphDatabase.dll
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.6\DumpBasicGraphDatabase.pdb

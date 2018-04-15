@@ -1,0 +1,14 @@
+<!--- Root, Each Node which is opepend must be closed --->
+<Root> 
+    
+    <!--- Node with 2 attubites --->
+    <Player name='max_coolDude' join_date='02/05/2025'>
+        <!--- Nodes do not have to have children --->
+        <Score time='49' score='125' /> 
+        <!--- Mutiple nodes of the same lable can be together --->
+        <Score time='91' score='122' /> 
+    <!--- attbuites cannot be in the closing tag --->
+    </Player> 
+    
+<!---  Closing tag --->
+</Root> 

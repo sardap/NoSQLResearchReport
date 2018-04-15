@@ -1,0 +1,3 @@
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ConsoleApp1.exe.config
+E:\GitHub\NoSQLResearchReport\Example code\GraphDatabaseExample\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
